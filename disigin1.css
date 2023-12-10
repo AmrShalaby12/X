@@ -511,3 +511,19 @@ span{
         margin: 20px;
         border-radius: 30px;
     }
+    .icon{
+        font-size: 40px;
+    }
+    .X{
+        width: 137px;
+        margin: 0%;
+    }
+    .h1-hid{
+        text-align: center;
+        margin-top: 20px;
+        font-size: 45px;
+    }
+    .link{
+        background-color: rgba(53, 46, 46, 0.459);
+        border-radius: 150px;
+    }
